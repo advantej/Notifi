@@ -1,0 +1,2 @@
+include ':Notifi', ':bazzinga'
+project(':bazzinga').projectDir = new File(settingsDir, '../../../../../../Users/advantej/Development/Mobile/Android/Bazzinga/bazzinga')
